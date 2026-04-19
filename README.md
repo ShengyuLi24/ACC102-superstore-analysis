@@ -21,12 +21,17 @@
 - 👥 Larger parties (5-6 people) tend to tip higher absolute amount, but percentage is similar.
 - 👫 Gender difference is minimal.
 
-## 5. How to Run
-```bash
+## 5. Limitations & Next Steps 
+Data only from one restaurant in the US (1990s?).
+No information on service quality or customer income. 
+Next: collect more recent data from multiple locations, add weather or day-of-week analysis.
+
+## 6. Product Link / Demo Video
+- **GitHub Repo:** https://github.com/ShengyuLi24/ACC102-tips-analysis/
+- **Demo Video (B站):** https://www.bilibili.com/video/BV1226865323
+
+## 7. How to Run
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 
-## 6. Limitations & Next Steps
-Data only from one restaurant in the US (1990s?).
-No information on service quality or customer income.
-Next: collect more recent data from multiple locations, add weather or day-of-week analysis.
+
